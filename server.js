@@ -17,7 +17,7 @@ app.set('view engine', 'ejs');
 
 ig.use({
   // get access token here: http://instagram.pixelunion.net/
-  access_token:'5098661520.1677ed0.39de8012652546bcb2d55e506d5cee43',
+  access_token:'YOUR_ACCESS_TOKEN',
 })
 
 
